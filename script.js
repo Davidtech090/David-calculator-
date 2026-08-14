@@ -1,7 +1,7 @@
-const display =
+valuedisplay display =
 document.getElementById("display")
 ;
-function addTodisplay(value) {
+function addToDisplay(value) {
     display.value += value;
 }
 
